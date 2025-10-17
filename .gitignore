@@ -54,3 +54,17 @@ TestResult.xml
 nunit-*.xml
 obj/Debug/net9.0/PostAI.Api.AssemblyInfo.cs
 obj/Debug/net9.0/PostAI.Api.AssemblyInfoInputs.cache
+bin/Debug/net9.0/PostAI.Api.dll
+bin/Debug/net9.0/PostAI.Api.exe
+bin/Debug/net9.0/PostAI.Api.pdb
+obj/Debug/net9.0/apphost.exe
+obj/Debug/net9.0/PostAI.Api.AssemblyInfo.cs
+obj/Debug/net9.0/PostAI.Api.csproj.CoreCompileInputs.cache
+obj/Debug/net9.0/PostAI.Api.AssemblyInfoInputs.cache
+obj/Debug/net9.0/PostAI.Api.csproj.FileListAbsolute.txt
+obj/Debug/net9.0/PostAI.Api.dll
+obj/Debug/net9.0/PostAI.Api.pdb
+obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+obj/Debug/net9.0/ref/PostAI.Api.dll
+obj/Debug/net9.0/refint/PostAI.Api.dll
